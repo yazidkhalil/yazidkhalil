@@ -11,13 +11,13 @@
 ### 🚀 Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Calculator Project](https://github.com/yazeed02-stack/calculator-project) | Simple Python calculator app | Python |
+| [Calculator Project](https://github.com/yazidkhalil/calculator-project) | Simple Python calculator app | Python |
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
 ### 🌍 Connect with me
 📫[Email me](mailto:ykhalil2004@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/yazid-khalil)
-🐍 [GitHub](https://github.com/yazeed02-stack)
+🐍 [GitHub](https://github.com/yazidkhalil)
 
 
 <!--
