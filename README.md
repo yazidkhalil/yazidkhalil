@@ -15,8 +15,8 @@
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
 ### 🌍 Connect with me
-📫[Email me](ykhalil2004@gmail.com)
-💼 [LinkedIn](www.linkedin.com/in/yazid-khalil)
+📫[Email me](mailto:ykhalil2004@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/yazid-khalil)
 🐍 [GitHub](https://github.com/yazeed02-stack)
 
 
