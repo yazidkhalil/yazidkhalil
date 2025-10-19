@@ -1,4 +1,4 @@
-## Hello World👋!, I'm Yazid Khalil
+## Hi👋!, I'm Yazid Khalil
 
 🎓**I am a Computer Science student at Columbus State Community College (CSCC)**  
 💻 Passionate about **software engineering** and **Cyber Security**  
