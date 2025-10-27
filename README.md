@@ -11,8 +11,8 @@
 ### 🚀 Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Calculator Project](https://github.com/yazidkhalil/calculator-project) | Simple Python calculator app | Python |
-| [Even-Odd Checker Project](https://github.com/yazidkhalil/Even-Odd-Checker) | Simple Python project that checks whether a number is even or odd | Python |
+| [Calculator Project](https://github.com/yazidkhalil/calculator-project) | Simple Python Calculator App | Python |
+| [Even-Odd Checker Project](https://github.com/yazidkhalil/Even-Odd-Checker) | Simple Python Project that checks whether a number is Even or Odd | Python |
 | [Grade Calculator Project](https://github.com/yazidkhalil/Grade-Calculator) | Simple Python Grade Calculator that averages three grades and shows the final letter grade. | Python |
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
