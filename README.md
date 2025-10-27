@@ -12,6 +12,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Calculator Project](https://github.com/yazidkhalil/calculator-project) | Simple Python calculator app | Python |
+| [Even-Odd Checker Project](https://github.com/yazidkhalil/Even-Odd-Checker) | Simple Python project that checks whether a number is even or odd | Python |
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
 ### 🌍 Connect with me
