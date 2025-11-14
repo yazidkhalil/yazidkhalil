@@ -14,7 +14,9 @@
 | [Calculator Project](https://github.com/yazidkhalil/calculator-project) | Simple Python Calculator App | Python |
 | [Even-Odd Checker Project](https://github.com/yazidkhalil/Even-Odd-Checker) | Simple Python Project that checks whether a number is Even or Odd | Python |
 | [Grade Calculator Project](https://github.com/yazidkhalil/Grade-Calculator) | Simple Python Grade Calculator that averages three grades and shows the final letter grade. | Python |
-| [Simple Password Hash Checker](https://github.com/yazidkhalil/simple-password-hash-checker) | A beginner friendly Python project that hashes passwords with SHA-256 and checks for matches in a local file.| Python|
+| [Simple Password Hash Checker](https://github.com/yazidkhalil/simple-password-hash-checker) | A beginner friendly project that hashes passwords with SHA-256 and checks for matches in a local file. | Python |
+| [Weather App](https://github.com/yazidkhalil/Weather-App) | A Python app that gets real time weather data with emojis, unit selection, and .env API key security. | Python |
+)
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
 ### 🌍 Connect with me
