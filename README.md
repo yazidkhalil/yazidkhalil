@@ -2,7 +2,7 @@
 
 🎓**I am a Computer Science Student at The Ohio State University (OSU)**  
 💻 Passionate about **software engineering** and **Cyber Security**  
-🎯On a mission to build cool projects, grow my coding skills, and transfer to **The Ohio State University**
+🎯On a mission to build cool projects, grow my coding skills, and trying to land my first internship!
 
 ## 🧠 Skills 
 **Languages learned so far:** Python, Java  
