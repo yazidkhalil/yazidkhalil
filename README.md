@@ -11,9 +11,6 @@
 ### 🚀 Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Calculator Project](https://github.com/yazidkhalil/calculator-project) | Simple Python Calculator App | Python |
-| [Even-Odd Checker Project](https://github.com/yazidkhalil/Even-Odd-Checker) | Simple Python Project that checks whether a number is Even or Odd | Python |
-| [Grade Calculator Project](https://github.com/yazidkhalil/Grade-Calculator) | Simple Python Grade Calculator that averages three grades and shows the final letter grade. | Python |
 | [Weather App](https://github.com/yazidkhalil/Weather-App) | Weather app that gets real time weather data with emojis, unit selection, and .env API key security. | Python |
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
