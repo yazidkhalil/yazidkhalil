@@ -6,7 +6,7 @@
 
 ## 🧠 Skills 
 **Languages learned so far:** Python, Java  
-**Tools:** Git, PyCharm, IntelliJ IDEA, Eclipse, Flowgorithm
+**Tools:** Git, GitHub, Eclipse, IntelliJ IDEA, PyCharm, Visual Studio Code
 
 ### 🚀 Projects
 | Project | Description | Tech |
