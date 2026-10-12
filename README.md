@@ -12,6 +12,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Weather App](https://github.com/yazidkhalil/Weather-App) | Weather app that gets real time weather data with emojis, unit selection, and .env API key security. | Python |
+| [Security News Reader](https://github.com/yazidkhalil/security-news-reader) | Java program that downloads security news RSS feeds, filters articles by keyword, and generates an HTML page. | Java |
 | [More Coming Soon 🔜]() | Stay tuned... | — |
 
 ### 🌍 Connect with me
